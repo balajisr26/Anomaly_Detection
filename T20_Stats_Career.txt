@@ -1,0 +1,972 @@
+Player|Innings|Overs|Maidens|Runs|Wickets|Average|Economy|StrikeRate|FourWickets|FiveWickets|Country
+A Ashok|1|4|0|28|1|28|7|24|0|0|New Zealand
+A Athanaze|||||||||||West Indies
+A Dananjaya|33|116.5|1|965|30|32.1666666666667|8.25962910128388|23.3666666666667|0|0|Sri Lanka
+A Flintoff|7|25|0|161|5|32.2|6.44|30|0|0|England
+A Martin|1|3|0|20|1|20|6.66666666666667|18|0|0|West Indies
+A Mishra|10|38|1|240|16|15|6.31578947368421|14.25|0|0|India
+A Nehra|27|98|2|758|34|22.2941176470588|7.73469387755102|17.2941176470588|0|0|India
+A Nel|2|8|0|42|2|21|5.25|24|0|0|South Africa
+A Nortje|35|121.5|0|858|46|18.6521739130435|7.04240766073871|15.8913043478261|3|0|South Africa
+A Shahzad|3|11|0|97|3|32.3333333333333|8.81818181818182|22|0|0|England
+A Symonds|12|30.5|0|277|8|34.625|8.98378378378378|23.125|0|0|Australia
+A Zampa|81|293.5|1|2134|96|22.2291666666667|7.26262053318208|18.3645833333333|1|1|Australia
+AA Noffke|2|7.3|1|41|4|10.25|5.46666666666667|11.25|0|0|Australia
+AAP Atkinson|3|8.5|0|84|6|14|9.50943396226415|8.83333333333333|1|0|England
+AB Agarkar|3|10.3|1|85|3|28.3333333333333|8.09523809523809|21|0|0|India
+AB Barath|||||||||||West Indies
+AB Dinda|9|30|1|245|17|14.4117647058824|8.16666666666667|10.5882352941176|1|0|India
+AB de Villiers|||||||||||South Africa
+AC Agar|47|165.4|1|1073|48|22.3541666666667|6.47686116700201|20.7083333333333|0|2|Australia
+AC Gilchrist|||||||||||Australia
+AC Thomas|1|4|0|25|3|8.33333333333333|6.25|8|0|0|South Africa
+AC Voges|1|2|0|5|2|2.5|2.5|6|0|0|Australia
+ACL Richards|||||||||||West Indies
+AD Hales|||||||||||England
+AD Mascarenhas|14|42|0|309|12|25.75|7.35714285714286|21|0|0|England
+AD Mathews|71|192.5|4|1369|45|30.4222222222222|7.09939498703544|25.7111111111111|0|0|Sri Lanka
+AD Russell|66|180.2|0|1696|52|32.6153846153846|9.40480591497227|20.8076923076923|0|0|West Indies
+ADS Fletcher|||||||||||West Indies
+AF Milne|51|180.5|3|1524|61|24.9836065573771|8.42764976958525|17.7868852459016|2|1|New Zealand
+AG Prince|||||||||||South Africa
+AJ Finch|2|2|0|27|0|Inf|13.5|Inf|0|0|Australia
+AJ Hall|2|8|0|60|3|20|7.5|16|0|0|South Africa
+AJ Hosein|49|174|0|1305|45|29|7.5|23.2|1|1|West Indies
+AJ McKay|2|5.4|0|31|2|15.5|5.47058823529412|17|0|0|New Zealand
+AJ Redmond|1|2.5|0|24|2|12|8.47058823529412|8.5|0|0|New Zealand
+AJ Strauss|||||||||||England
+AJ Turner|6|13|0|82|4|20.5|6.30769230769231|19.5|0|0|Australia
+AJ Tye|31|113.5|1|997|47|21.2127659574468|8.75841874084919|14.531914893617|1|0|Australia
+AK Kitchen|3|6|0|46|2|23|7.66666666666667|18|0|0|New Zealand
+AK Markram|18|37|2|306|10|30.6|8.27027027027027|22.2|0|0|South Africa
+AK Perera|1|1|0|17|0|Inf|17|Inf|0|0|Sri Lanka
+AL Phehlukwayo|39|124.4|0|1112|50|22.24|8.91978609625669|14.96|1|0|South Africa
+AM Ellis|4|10|0|105|2|52.5|10.5|30|0|0|New Zealand
+AM Fernando|3|10|0|113|2|56.5|11.3|30|0|0|Sri Lanka
+AM Hardie|6|19|1|175|4|43.75|9.21052631578947|28.5|0|0|Australia
+AM McCarthy|1|2|0|12|0|Inf|6|Inf|0|0|West Indies
+AM Phangiso|16|57|0|443|20|22.15|7.7719298245614|17.1|0|0|South Africa
+AM Rahane|||||||||||India
+AN Cook|||||||||||England
+AN Petersen|||||||||||South Africa
+AP Devcich|4|12|0|80|2|40|6.66666666666667|36|0|0|New Zealand
+AR Adams|4|12.5|0|105|3|35|8.18181818181818|25.6666666666667|0|0|New Zealand
+AR Nurse|13|40|0|318|8|39.75|7.95|30|0|0|West Indies
+AR Patel|52|166.1|1|1200|51|23.5294117647059|7.22166499498496|19.5490196078431|0|0|India
+AS Joseph|24|91.3|0|791|39|20.2820512820513|8.6448087431694|14.0769230769231|1|1|West Indies
+AT Carey|||||||||||Australia
+AT Rayudu|||||||||||India
+AU Rashid|104|378.2|4|2817|111|25.3783783783784|7.44581497797357|20.4504504504505|2|0|England
+AY Patel|7|26|0|118|11|10.7272727272727|4.53846153846154|14.1818181818182|1|0|New Zealand
+Aamer Jamal|6|16.5|0|187|2|93.5|11.1089108910891|50.5|0|0|Pakistan
+Aamer Yamin|2|6|0|37|2|18.5|6.16666666666667|18|0|0|Pakistan
+Abbas Afridi|9|28.5|0|264|16|16.5|9.15606936416185|10.8125|0|0|Pakistan
+Abdul Razzaq|22|56.3|2|395|20|19.75|6.99115044247788|16.95|0|0|Pakistan
+Abdullah Shafique|||||||||||Pakistan
+Abdur Rauf|1|3|0|21|0|Inf|7|Inf|0|0|Pakistan
+Abdur Razzak|33|121.4|4|838|44|19.0454545454545|6.88767123287671|16.5909090909091|1|0|BAN
+Abdur Rehman|8|26|0|192|11|17.4545454545455|7.38461538461539|14.1818181818182|0|0|Pakistan
+Abrar Ahmed|2|8|0|46|2|23|5.75|24|0|0|Pakistan
+Abu Hider|12|36|0|330|6|55|9.16666666666667|36|0|0|BAN
+Abu Jayed|3|11|0|106|4|26.5|9.63636363636364|16.5|0|0|BAN
+Abul Hasan|5|14|0|148|4|37|10.5714285714286|21|0|0|BAN
+Afif Hossain|22|34|1|260|12|21.6666666666667|7.64705882352941|17|0|0|BAN
+Afsar Zazai|||||||||||Afghanistan
+Aftab Ahmed|1|0.2|0|8|0|Inf|24|Inf|0|0|BAN
+Aftab Alam|12|40.5|0|324|11|29.4545454545455|7.93469387755102|22.2727272727273|0|0|Afghanistan
+Ahmed Shehzad|1|1|0|10|0|Inf|10|Inf|0|0|Pakistan
+Ahsan Ali|||||||||||Pakistan
+Aizaz Cheema|5|17|0|116|8|14.5|6.82352941176471|12.75|1|0|Pakistan
+Al-Amin Hossain|29|102.2|0|730|43|16.9767441860465|7.13355048859935|14.2790697674419|0|0|BAN
+Alok Kapali|2|5|0|35|2|17.5|7|15|0|0|BAN
+Aminul Islam|10|31.2|0|238|12|19.8333333333333|7.59574468085106|15.6666666666667|0|0|BAN
+Amir Hamza|33|111|2|752|30|25.0666666666667|6.77477477477478|22.2|0|0|Afghanistan
+Anamul Haque|||||||||||BAN
+Anwar Ali|15|44.1|0|367|10|36.7|8.30943396226415|26.5|0|0|Pakistan
+Arafat Minhas|3|8|0|45|4|11.25|5.625|12|0|0|Pakistan
+Arafat Sunny|10|31|0|230|12|19.1666666666667|7.41935483870968|15.5|0|0|BAN
+Ariful Haque|1|1|0|13|1|13|13|6|0|0|BAN
+Arshad Iqbal|3|9|0|53|4|13.25|5.88888888888889|13.5|0|0|Pakistan
+Arshdeep Singh|46|157.5|2|1360|65|20.9230769230769|8.61668426610348|14.5692307692308|1|0|India
+Asad Ali|2|4|0|33|0|Inf|8.25|Inf|0|0|Pakistan
+Asad Shafiq|||||||||||Pakistan
+Asghar Afghan|1|0.4|0|4|1|4|6|4|0|0|Afghanistan
+Asif Ali|||||||||||Pakistan
+Avesh Khan|19|66.2|1|618|19|32.5263157894737|9.31658291457287|20.9473684210526|1|0|India
+Awais Zia|||||||||||Pakistan
+Azam Khan|||||||||||Pakistan
+Azmatullah Omarzai|34|94.3|0|784|26|30.1538461538462|8.2962962962963|21.8076923076923|1|0|Afghanistan
+B Fernando|17|57.1|0|488|16|30.5|8.53644314868805|21.4375|0|0|Sri Lanka
+B Geeves|1|3.2|0|35|2|17.5|10.5|10|0|0|Australia
+B Kumar|86|298.3|10|2079|90|23.1|6.96482412060302|19.9|3|2|India
+B Laughlin|3|11.5|0|118|2|59|9.97183098591549|35.5|0|0|Australia
+B Lee|25|90.5|0|714|28|25.5|7.8605504587156|19.4642857142857|0|0|Australia
+B Stanlake|19|70|2|544|27|20.1481481481482|7.77142857142857|15.5555555555556|1|0|Australia
+BA Carse|3|8|0|66|4|16.5|8.25|12|0|0|England
+BA King|||||||||||West Indies
+BA Parchment|||||||||||West Indies
+BA Stokes|36|102|1|856|26|32.9230769230769|8.3921568627451|23.5384615384615|0|0|England
+BAW Mendis|39|147.3|5|952|66|14.4242424242424|6.45423728813559|13.4090909090909|3|2|Sri Lanka
+BB McCullum|||||||||||New Zealand
+BB Sran|2|8|1|41|6|6.83333333333333|5.125|8|1|0|India
+BC Fortuin|20|59|1|455|18|25.2777777777778|7.71186440677966|19.6666666666667|0|0|South Africa
+BE Hendricks|19|68.1|0|627|25|25.08|9.19804400977995|16.36|1|0|South Africa
+BG Lister|11|36.5|0|316|11|28.7272727272727|8.57918552036199|20.0909090909091|0|0|New Zealand
+BJ Diamanti|1|2|0|19|0|Inf|9.5|Inf|0|0|New Zealand
+BJ Dwarshuis|3|11|0|112|5|22.4|10.1818181818182|13.2|0|0|Australia
+BJ Haddin|||||||||||Australia
+BJ Hodge|3|5|0|43|1|43|8.6|30|0|0|Australia
+BJ Rohrer|||||||||||Australia
+BJ Watling|||||||||||New Zealand
+BKG Mendis|||||||||||Sri Lanka
+BM Duckett|||||||||||England
+BM Tickner|18|56.5|0|536|19|28.2105263157895|9.43108504398827|17.9473684210526|1|0|New Zealand
+BM Wheeler|6|21.2|0|216|7|30.8571428571429|10.125|18.2857142857143|0|0|New Zealand
+BMAJ Mendis|14|35|0|249|12|20.75|7.11428571428571|17.5|0|0|Sri Lanka
+BOP Fernando|||||||||||Sri Lanka
+BR Dunk|||||||||||Australia
+BR McDermott|||||||||||Australia
+BT Foakes|||||||||||England
+BV Sears|15|52|0|424|19|22.3157894736842|8.15384615384615|16.421052631579|0|0|New Zealand
+BW Hilfenhaus|7|26|0|161|9|17.8888888888889|6.19230769230769|17.3333333333333|0|0|Australia
+Babar Azam|||||||||||Pakistan
+Bilawal Bhatti|9|26|0|255|5|51|9.80769230769231|31.2|0|0|Pakistan
+C Green|7|20|0|178|5|35.6|8.9|24|0|0|Australia
+C Jonker|||||||||||South Africa
+C Karunaratne|39|113.5|0|953|24|39.7083333333333|8.37188872620791|28.4583333333333|0|0|Sri Lanka
+C Kieswetter|||||||||||England
+C Munro|12|19.4|0|186|4|46.5|9.45762711864407|29.5|0|0|New Zealand
+C Sakariya|1|3.4|0|34|1|34|9.27272727272727|22|0|0|India
+C de Grandhomme|21|53.3|0|461|12|38.4166666666667|8.61682242990654|26.75|0|0|New Zealand
+CA Ingram|||||||||||South Africa
+CA Lynn|||||||||||Australia
+CAK Rajitha|18|66|1|615|17|36.1764705882353|9.31818181818182|23.2941176470588|0|0|Sri Lanka
+CAK Walton|||||||||||West Indies
+CBRLS Kumara|25|90.4|1|755|33|22.8787878787879|8.32720588235294|16.4848484848485|0|0|Sri Lanka
+CD Barnwell|4|6|0|51|1|51|8.5|36|0|0|West Indies
+CD McMillan|||||||||||New Zealand
+CE McConchie|9|22.2|0|163|7|23.2857142857143|7.29850746268657|19.1428571428571|0|0|New Zealand
+CH Gayle|30|63.3|0|440|20|22|6.92913385826772|19.05|0|0|West Indies
+CH Morris|23|83|3|697|34|20.5|8.39759036144578|14.6470588235294|1|0|South Africa
+CJ Bowes|||||||||||New Zealand
+CJ Boyce|7|23|0|152|8|19|6.60869565217391|17.25|0|0|Australia
+CJ Dala|10|32|1|307|13|23.6153846153846|9.59375|14.7692307692308|0|0|South Africa
+CJ Ferguson|||||||||||Australia
+CJ Green|1|4|0|36|0|Inf|9|Inf|0|0|Australia
+CJ Jordan|91|317.4|2|2781|100|27.81|8.75445960125918|19.06|3|0|England
+CJ McKay|6|22.4|1|183|4|45.75|8.07352941176471|34|0|0|Australia
+CK Kapugedera|||||||||||Sri Lanka
+CK Langeveldt|9|33|0|241|17|14.1764705882353|7.3030303030303|11.6470588235294|1|0|South Africa
+CL Cairns|2|8|0|52|1|52|6.5|48|0|0|New Zealand
+CL White|5|7|0|51|1|51|7.28571428571429|42|0|0|Australia
+CMW Read|||||||||||England
+CP Schofield|4|12.5|0|92|4|23|7.16883116883117|19.25|0|0|England
+CR Brathwaite|39|118.1|1|1013|31|32.6774193548387|8.57263751763047|22.8709677419355|0|0|West Indies
+CR Woakes|33|101.5|1|822|31|26.5161290322581|8.07201309328969|19.7096774193548|0|0|England
+CRD Fernando|18|63|3|464|18|25.7777777777778|7.36507936507937|21|0|0|Sri Lanka
+CS Baugh|||||||||||West Indies
+CS Martin|6|23|1|193|7|27.5714285714286|8.39130434782609|19.7142857142857|0|0|New Zealand
+CT Bancroft|||||||||||Australia
+CT Tremlett|1|4|0|45|2|22.5|11.25|12|0|0|England
+CU Jayasinghe|||||||||||Sri Lanka
+CV Varun|6|22.3|0|132|2|66|5.86666666666667|67.5|0|0|India
+D Bishoo|7|20.1|1|137|7|19.5714285714286|6.79338842975207|17.2857142857143|1|0|West Indies
+D Brevis|||||||||||South Africa
+D Cleaver|||||||||||New Zealand
+D Ferreira|||||||||||South Africa
+D Foxcroft|||||||||||New Zealand
+D Ganga|||||||||||West Indies
+D Gough|2|6.5|0|49|3|16.3333333333333|7.17073170731707|13.6666666666667|0|0|England
+D Madushanka|14|46|0|433|14|30.9285714285714|9.41304347826087|19.7142857142857|0|0|Sri Lanka
+D Mongia|||||||||||India
+D Padikkal|||||||||||India
+D Paterson|8|29.5|0|265|9|29.4444444444444|8.88268156424581|19.8888888888889|1|0|South Africa
+D Pretorius|27|84|0|696|35|19.8857142857143|8.28571428571429|14.4|0|1|South Africa
+D Ramdin|||||||||||West Indies
+DA Warner|||||||||||Australia
+DAJ Bracewell|18|51.4|0|470|20|23.5|9.09677419354839|15.5|0|0|New Zealand
+DAS Gunaratne|10|24.5|0|204|5|40.8|8.21476510067114|29.8|0|0|Sri Lanka
+DBL Powell|5|17|0|131|2|65.5|7.70588235294118|51|0|0|West Indies
+DC Drakes|10|32|0|290|6|48.3333333333333|9.0625|32|0|0|West Indies
+DC Thomas|||||||||||West Indies
+DE Bernard|1|4|0|17|0|Inf|4.25|Inf|0|0|West Indies
+DE Bollinger|9|35|0|249|9|27.6666666666667|7.11428571428571|23.3333333333333|0|0|Australia
+DG Brownlie|||||||||||New Zealand
+DJ Bravo|77|250.5|0|2036|78|26.1025641025641|8.11694352159469|19.2948717948718|3|0|West Indies
+DJ Hooda|8|15.5|0|76|6|12.6666666666667|4.8|15.8333333333333|1|0|India
+DJ Hussey|25|60.1|1|392|19|20.6315789473684|6.51523545706371|19|0|0|Australia
+DJ Malan|1|2|0|27|1|27|13.5|12|0|0|England
+DJ Mitchell|11|15.5|0|164|8|20.5|10.3578947368421|11.875|0|0|New Zealand
+DJ Vilas|||||||||||South Africa
+DJ Willey|43|144.1|1|1180|51|23.1372549019608|8.1849710982659|16.9607843137255|1|0|England
+DJM Short|9|19|0|151|3|50.3333333333333|7.94736842105263|38|0|0|Australia
+DK Butler|1|3|0|22|0|Inf|7.33333333333333|Inf|0|0|West Indies
+DL Chahar|25|90|2|747|31|24.0967741935484|8.3|17.4193548387097|0|1|India
+DL Maddy|2|3|0|26|3|8.66666666666667|8.66666666666667|6|0|0|England
+DL Vettori|34|131.1|1|748|38|19.6842105263158|5.70266836086404|20.7105263157895|1|0|New Zealand
+DM Bravo|||||||||||West Indies
+DM Richards|||||||||||West Indies
+DM de Silva|25|47.4|0|327|16|20.4375|6.86013986013986|17.875|0|0|Sri Lanka
+DO Christian|||||||||||West Indies
+DP Conway|||||||||||New Zealand
+DP Hyatt|||||||||||West Indies
+DPMD Jayawardene|1|1|0|8|0|Inf|8|Inf|0|0|Sri Lanka
+DR Briggs|6|18|0|199|5|39.8|11.0555555555556|21.6|0|0|England
+DR Flynn|1|1|0|7|0|Inf|7|Inf|0|0|New Zealand
+DR Martyn|||||||||||Australia
+DR Sams|10|30|0|305|7|43.5714285714286|10.1666666666667|25.7142857142857|0|0|Australia
+DR Smith|11|23.4|0|212|7|30.2857142857143|8.95774647887324|20.2857142857143|0|0|West Indies
+DR Tuffey|3|10|0|93|3|31|9.3|20|0|0|New Zealand
+DS Kulkarni|2|8|0|55|3|18.3333333333333|6.875|16|0|0|India
+DS Smith|||||||||||West Indies
+DSK Madushanka|2|5.1|0|62|2|31|12|15.5|0|0|Sri Lanka
+DT Christian|21|46.3|0|398|13|30.6153846153846|8.55913978494624|21.4615384615385|0|0|Australia
+DW Steyn|47|169.1|3|1175|64|18.359375|6.94581280788177|15.859375|2|0|South Africa
+Danish Aziz|1|3|0|29|2|14.5|9.66666666666667|9|0|0|Pakistan
+Darwish Rasooli|||||||||||Afghanistan
+Dawlat Ahmadzai|2|4|0|46|2|23|11.5|12|0|0|Afghanistan
+Dawlat Zadran|34|123.3|2|980|40|24.5|7.93522267206478|18.525|1|0|Afghanistan
+Dhiman Ghosh|||||||||||BAN
+E Leie|2|6|0|48|4|12|8|9|0|0|South Africa
+E Lewis|||||||||||West Indies
+EJG Morgan|||||||||||England
+EMDY Munaweera|5|10|0|92|1|92|9.2|60|0|0|Sri Lanka
+EP Thompson|1|3|1|18|1|18|6|18|0|0|New Zealand
+Ebadot Hossain|4|15.1|0|140|7|20|9.23076923076923|13|0|0|BAN
+Elias Sunny|7|23|1|146|9|16.2222222222222|6.34782608695652|15.3333333333333|0|1|BAN
+F Behardien|3|5|0|27|3|9|5.4|10|0|0|South Africa
+FA Allen|32|94.5|1|708|24|29.5|7.46572934973638|23.7083333333333|0|0|West Indies
+FH Allen|||||||||||New Zealand
+FH Edwards|26|74.5|0|617|20|30.85|8.24498886414254|22.45|0|0|West Indies
+FL Reifer|||||||||||West Indies
+Faheem Ashraf|46|128.1|1|981|36|27.25|7.65409622886866|21.3611111111111|0|0|Pakistan
+Fakhar Zaman|1|1|0|12|0|Inf|12|Inf|0|0|Pakistan
+Fareed Ahmad|29|90.3|0|764|39|19.5897435897436|8.44198895027624|13.9230769230769|0|0|Afghanistan
+Farhad Reza|11|26|0|261|6|43.5|10.0384615384615|26|0|0|BAN
+Fawad Ahmed|2|8|0|68|3|22.6666666666667|8.5|16|0|0|Australia
+Fawad Alam|6|15|0|95|8|11.875|6.33333333333333|11.25|0|0|Pakistan
+Fazal Niazai|1|1|0|13|0|Inf|13|Inf|0|0|Afghanistan
+Fazalhaq Farooqi|36|132.4|4|871|46|18.9347826086957|6.56532663316583|17.304347826087|1|1|Afghanistan
+G Coetzee|6|20.2|1|207|8|25.875|10.1803278688525|15.25|0|0|South Africa
+G Gambhir|||||||||||India
+G Motie|10|36|0|245|15|16.3333333333333|6.80555555555556|14.4|0|0|West Indies
+G Wijekoon|3|11|0|101|2|50.5|9.18181818181818|33|0|0|Sri Lanka
+GA Stuurman|1|2|0|28|0|Inf|14|Inf|0|0|South Africa
+GB Hogg|15|49|1|373|7|53.2857142857143|7.61224489795918|42|0|0|Australia
+GC Smith|3|4|0|57|0|Inf|14.25|Inf|0|0|South Africa
+GC Tonge|1|4|0|25|1|25|6.25|24|0|0|West Indies
+GD McGrath|2|8|0|79|5|15.8|9.875|9.6|0|0|Australia
+GD Phillips|8|14.3|0|104|2|52|7.17241379310345|43.5|0|0|New Zealand
+GE Mathurin|3|10|0|65|4|16.25|6.5|15|0|0|West Indies
+GF Linde|14|48|0|340|15|22.6666666666667|7.08333333333333|19.2|0|0|South Africa
+GH Bodi|||||||||||South Africa
+GH Worker|1|2|0|19|1|19|9.5|12|0|0|New Zealand
+GHS Garton|1|4|0|57|1|57|14.25|24|0|0|England
+GJ Batty|1|3|0|17|0|Inf|5.66666666666667|Inf|0|0|England
+GJ Hopkins|||||||||||New Zealand
+GJ Maxwell|72|155.1|0|1240|40|31|7.99140708915145|23.275|0|0|Australia
+GJ Snyman|1|1|0|12|0|Inf|12|Inf|0|0|South Africa
+GJP Kruger|1|4|0|29|0|Inf|7.25|Inf|0|0|South Africa
+GL Cloete|||||||||||South Africa
+GO Jones|||||||||||England
+GP Swann|38|135|4|859|51|16.843137254902|6.36296296296296|15.8823529411765|0|0|England
+GSNFG Jayasuriya|11|22.5|0|213|3|71|9.32846715328467|45.6666666666667|0|0|Sri Lanka
+GW Aldridge|1|4|0|45|1|45|11.25|24|0|0|New Zealand
+Gulbadin Naib|40|99.1|1|813|26|31.2692307692308|8.19831932773109|22.8846153846154|0|0|Afghanistan
+H Davids|2|2|0|13|1|13|6.5|12|0|0|South Africa
+H Klaasen|1|1|0|14|0|Inf|14|Inf|0|0|South Africa
+HB Shipley|4|13|0|141|2|70.5|10.8461538461538|39|0|0|New Zealand
+HC Brook|||||||||||England
+HD Rutherford|||||||||||New Zealand
+HDRL Thirimanne|||||||||||Sri Lanka
+HE van der Dussen|||||||||||South Africa
+HF Gurney|2|8|0|55|3|18.3333333333333|6.875|16|0|0|England
+HG Kuhn|||||||||||South Africa
+HGJM Kulatunga|||||||||||Sri Lanka
+HH Dippenaar|||||||||||South Africa
+HH Gibbs|||||||||||South Africa
+HH Pandya|83|246.5|2|2001|78|25.6538461538462|8.10668467251857|18.9871794871795|3|0|India
+HJH Marshall|||||||||||New Zealand
+HK Bennett|11|35.5|0|331|10|33.1|9.23720930232558|21.5|0|0|New Zealand
+HM Nicholls|||||||||||New Zealand
+HMCM Bandara|4|14|0|96|4|24|6.85714285714286|21|0|0|Sri Lanka
+HMRKB Herath|17|60.5|3|373|18|20.7222222222222|6.13150684931507|20.2777777777778|0|1|Sri Lanka
+HV Patel|24|83.5|0|770|29|26.551724137931|9.18489065606362|17.3448275862069|1|0|India
+Haider Ali|||||||||||Pakistan
+Hamid Hassan|25|90.4|2|580|35|16.5714285714286|6.39705882352941|15.5428571428571|1|0|Afghanistan
+Hammad Azam|||||||||||Pakistan
+Harbhajan Singh|27|102|5|633|25|25.32|6.20588235294118|24.48|1|0|India
+Haris Rauf|69|257.4|1|2119|101|20.980198019802|8.22380336351876|15.3069306930693|3|0|Pakistan
+Haris Sohail|||||||||||Pakistan
+Hasan Ali|50|172.1|5|1456|60|24.2666666666667|8.45692158760891|17.2166666666667|1|0|Pakistan
+Hasan Mahmud|18|62|1|464|18|25.7777777777778|7.48387096774194|20.6666666666667|0|0|BAN
+Hasan Murad|1|2|0|16|0|Inf|8|Inf|0|0|BAN
+Haseebullah Khan|||||||||||Pakistan
+Hashmatullah Shahidi|||||||||||Afghanistan
+Hazratullah Zazai|||||||||||Afghanistan
+Hussain Talat|6|6|0|54|4|13.5|9|9|0|0|Pakistan
+I Sharma|14|46.2|0|400|8|50|8.63309352517986|34.75|0|0|India
+I Udana|32|105.1|1|915|27|33.8888888888889|8.70047543581616|23.3703703703704|0|0|Sri Lanka
+IDR Bradshaw|1|4|0|22|0|Inf|5.5|Inf|0|0|West Indies
+IE O'Brien|4|13|0|116|6|19.3333333333333|8.92307692307692|13|0|0|New Zealand
+IG Butler|18|59.4|1|481|23|20.9130434782609|8.06145251396648|15.5652173913043|0|0|New Zealand
+IJL Trott|||||||||||England
+IK Pathan|23|77|1|618|28|22.0714285714286|8.02597402597403|16.5|0|0|India
+IR Bell|||||||||||England
+IS Sodhi|111|392.5|0|3142|136|23.1029411764706|7.99830292745015|17.3308823529412|3|0|New Zealand
+Ibrahim Zadran|||||||||||Afghanistan
+Iftikhar Ahmed|25|49.1|0|349|8|43.625|7.09830508474576|36.875|0|0|Pakistan
+Iftikhar Anjum|2|8|0|67|1|67|8.375|48|0|0|Pakistan
+Ihsanullah|4|14.5|0|108|6|18|7.28089887640449|14.8333333333333|0|0|Pakistan
+Ihsanullah|4|14.5|0|108|6|18|7.28089887640449|14.8333333333333|0|0|Afghanistan
+Ihsanullah|||||||||||Pakistan
+Ihsanullah|||||||||||Afghanistan
+Ijaz Ahmad Ahmadzai|||||||||||Afghanistan
+Imad Wasim|73|252|4|1580|70|22.5714285714286|6.26984126984127|21.6|1|1|Pakistan
+Imam-ul-Haq|||||||||||Pakistan
+Imran Farhat|||||||||||Pakistan
+Imran Khan (1)|3|12|0|106|2|53|8.83333333333333|36|0|0|Pakistan
+Imran Nazir|||||||||||Pakistan
+Imrul Kayes|||||||||||BAN
+Inzamam-ul-Haq|||||||||||Pakistan
+Irfan Khan|||||||||||Pakistan
+Ishan Kishan|||||||||||India
+J Botha|39|129|1|823|37|22.2432432432432|6.37984496124031|20.9189189189189|0|0|South Africa
+J Charles|||||||||||West Indies
+J Lewis|2|7|0|55|4|13.75|7.85714285714286|10.5|1|0|England
+J Liyanage|||||||||||Sri Lanka
+J Louw|2|7|0|54|2|27|7.71428571428571|21|0|0|South Africa
+J Mubarak|2|1.2|0|17|1|17|12.75|8|0|0|Sri Lanka
+JA Clarkson|1|1|0|8|1|8|8|6|0|0|New Zealand
+JA Duffy|13|40|0|311|11|28.2727272727273|7.775|21.8181818181818|1|0|New Zealand
+JA Morkel|46|107.5|2|864|26|33.2307692307692|8.01236476043277|24.8846153846154|0|0|South Africa
+JA Richardson|18|66|0|556|19|29.2631578947368|8.42424242424242|20.8421052631579|0|0|Australia
+JA Rudolph|||||||||||South Africa
+JAH Marshall|||||||||||New Zealand
+JC Archer|19|71.5|1|543|22|24.6818181818182|7.55916473317866|19.5909090909091|1|0|England
+JC Buttler|||||||||||England
+JC Tredwell|15|52.5|0|416|7|59.4285714285714|7.87381703470032|45.2857142857143|0|0|England
+JD Campbell|1|1|0|1|0|Inf|1|Inf|0|0|West Indies
+JD Ryder|5|10|0|68|2|34|6.8|30|0|0|New Zealand
+JD Unadkat|10|34.4|0|301|14|21.5|8.68269230769231|14.8571428571429|0|0|India
+JD Wildermuth|2|3|0|32|1|32|10.6666666666667|18|0|0|Australia
+JDF Vandersay|14|49.2|1|395|7|56.4285714285714|8.00675675675676|42.2857142857143|0|0|Sri Lanka
+JDP Oram|32|91|0|793|19|41.7368421052632|8.71428571428571|28.7368421052632|0|0|New Zealand
+JDS Neesham|52|114.3|0|1051|38|27.6578947368421|9.17903930131004|18.0789473684211|0|0|New Zealand
+JE Root|9|14|0|139|6|23.1666666666667|9.92857142857143|14|0|0|England
+JE Taylor|30|100|2|863|33|26.1515151515152|8.63|18.1818181818182|0|0|West Indies
+JEC Franklin|26|54.3|0|417|20|20.85|7.65137614678899|16.35|1|0|New Zealand
+JH Kallis|19|46|1|333|12|27.75|7.23913043478261|23|1|0|South Africa
+JJ Bumrah|63|228.5|11|1475|79|18.6708860759494|6.44573925710124|17.379746835443|0|0|India
+JJ Roy|||||||||||England
+JJ van der Wath|8|31|0|231|8|28.875|7.45161290322581|23.25|0|0|South Africa
+JL Denly|6|12|0|93|7|13.2857142857143|7.75|10.2857142857143|1|0|England
+JL Ontong|4|6|0|83|1|83|13.8333333333333|36|0|0|South Africa
+JL Pattinson|4|13|0|104|3|34.6666666666667|8|26|0|0|Australia
+JM Anderson|19|70.2|1|552|18|30.6666666666667|7.84834123222749|23.4444444444444|0|0|England
+JM Bairstow|||||||||||England
+JM How|||||||||||New Zealand
+JM Kemp|1|1|0|5|0|Inf|5|Inf|0|0|South Africa
+JM Muirhead|5|15|0|109|6|18.1666666666667|7.26666666666667|15|0|0|Australia
+JM Sharma|||||||||||India
+JM Vince|||||||||||England
+JN Gillespie|1|4|0|49|1|49|12.25|24|0|0|Australia
+JN Malan|||||||||||South Africa
+JN Mohammed|2|2|0|13|0|Inf|6.5|Inf|0|0|West Indies
+JN Snape|1|1|0|12|0|Inf|12|Inf|0|0|England
+JO Holder|60|222.1|2|1906|66|28.8787878787879|8.57914478619655|20.1969696969697|2|1|West Indies
+JP Behrendorff|16|53|2|443|18|24.6111111111111|8.35849056603774|17.6666666666667|1|0|Australia
+JP Duminy|41|77.1|0|599|21|28.5238095238095|7.76241900647948|22.047619047619|0|0|South Africa
+JP Faulkner|24|85.5|0|684|36|19|7.96893203883495|14.3055555555556|0|1|Australia
+JP Inglis|||||||||||Australia
+JR Hazlewood|47|177.4|6|1353|62|21.8225806451613|7.61538461538462|17.1935483870968|4|0|Australia
+JR Hopes|12|37|0|283|10|28.3|7.64864864864865|22.2|0|0|Australia
+JR Philippe|||||||||||Australia
+JRMVB Sanjaya|8|28.5|1|250|9|27.7777777777778|8.67052023121387|19.2222222222222|0|0|Sri Lanka
+JS Foster|||||||||||England
+JS Patel|10|33.1|1|269|16|16.8125|8.1105527638191|12.4375|0|0|New Zealand
+JT Ball|2|7|0|83|2|41.5|11.8571428571429|21|0|0|England
+JT Smuts|10|22.4|0|178|1|178|7.85294117647059|136|0|0|South Africa
+JW Hastings|9|31|0|247|7|35.2857142857143|7.96774193548387|26.5714285714286|0|0|Australia
+JW Wilson|1|4|0|43|0|Inf|10.75|Inf|0|0|New Zealand
+JWM Dalrymple|3|5|0|39|2|19.5|7.8|15|0|0|England
+Jahurul Islam|||||||||||BAN
+Jaker Ali|||||||||||BAN
+Javed Ahmadi|||||||||||Afghanistan
+Joginder Sharma|4|14.3|0|138|4|34.5|9.51724137931035|21.75|0|0|India
+Jubair Hossain|1|2|0|20|2|10|10|6|0|0|BAN
+Junaid Khan|19|66|1|405|22|18.4090909090909|6.13636363636364|18|0|0|Pakistan
+Junaid Khan|9|27|0|236|8|29.5|8.74074074074074|20.25|0|0|Pakistan
+Junaid Siddique|55|202.5|2|1540|72|21.3888888888889|7.5924404272802|16.9027777777778|3|0|BAN
+Junaid Siddique|||||||||||BAN
+K Mishara|||||||||||Sri Lanka
+K Pierre|10|28|0|269|7|38.4285714285714|9.60714285714286|24|0|0|West Indies
+K Rabada|59|213.1|2|1800|62|29.0322580645161|8.44409695074277|20.6290322580645|0|0|South Africa
+K Santokie|12|40.5|0|278|18|15.4444444444444|6.80816326530612|13.6111111111111|1|0|West Indies
+K Sinclair|6|18|0|150|4|37.5|8.33333333333333|27|0|0|West Indies
+K Weeraratne|5|15|0|126|4|31.5|8.4|22.5|1|0|Sri Lanka
+KA Jamieson|13|44.2|0|412|10|41.2|9.29323308270677|26.6|0|0|New Zealand
+KA Maharaj|30|102.5|1|744|29|25.6551724137931|7.23500810372772|21.2758620689655|0|0|South Africa
+KA Pollard|63|142.4|0|1188|42|28.2857142857143|8.32710280373832|20.3809523809524|1|0|West Indies
+KAJ Roach|11|39|1|284|10|28.4|7.28205128205128|23.4|0|0|West Indies
+KC Sangakkara|||||||||||Sri Lanka
+KD Mills|42|149.3|1|1228|43|28.5581395348837|8.21404682274247|20.8604651162791|0|0|New Zealand
+KDK Vithanage|||||||||||Sri Lanka
+KH Pandya|19|68.2|1|554|15|36.9333333333333|8.10731707317073|27.3333333333333|1|0|India
+KIC Asalanka|5|6.1|0|38|0|Inf|6.16216216216216|Inf|0|0|Sri Lanka
+KJ Abbott|21|72.4|0|579|26|22.2692307692308|7.96788990825688|16.7692307692308|0|0|South Africa
+KK Ahmed|14|52|1|459|13|35.3076923076923|8.82692307692308|24|0|0|India
+KL Rahul|||||||||||India
+KM Jadhav|||||||||||India
+KMA Paul|23|77|0|700|25|28|9.09090909090909|18.48|0|1|West Indies
+KMC Bandara|1|1|0|11|0|Inf|11|Inf|0|0|Sri Lanka
+KMDN Kulasekara|58|205.1|6|1530|66|23.1818181818182|7.45735174654752|18.6515151515152|2|0|Sri Lanka
+KNA Bandara|1|1|0|2|0|Inf|2|Inf|0|0|Sri Lanka
+KOA Powell|||||||||||West Indies
+KOK Williams|26|91.5|2|805|41|19.6341463414634|8.76588021778584|13.4390243902439|1|0|West Indies
+KP Pietersen|3|5|0|53|1|53|10.6|30|0|0|England
+KR Mayers|12|16|0|152|0|Inf|9.5|Inf|0|0|West Indies
+KS Lokuarachchi|2|6|0|48|2|24|8|18|0|0|Sri Lanka
+KS Williamson|12|19.4|0|164|6|27.3333333333333|8.33898305084746|19.6666666666667|0|0|New Zealand
+KTGD Prasad|1|3|0|37|0|Inf|12.3333333333333|Inf|0|0|Sri Lanka
+KV Sharma|1|4|0|28|1|28|7|24|0|0|India
+KW Richardson|36|126|0|1059|45|23.5333333333333|8.40476190476191|16.8|1|0|Australia
+Kamran Akmal|||||||||||Pakistan
+Karim Janat|48|137.1|0|1130|42|26.9047619047619|8.23815309842041|19.5952380952381|0|1|Afghanistan
+Karim Sadiq|28|70|0|482|14|34.4285714285714|6.88571428571429|30|0|0|Afghanistan
+Khalid Latif|||||||||||Pakistan
+Khurram Manzoor|||||||||||Pakistan
+Khushdil Shah|4|8|0|39|3|13|4.875|16|0|0|Pakistan
+Kuldeep Yadav|34|123.2|2|832|59|14.1016949152542|6.74594594594595|12.5423728813559|1|2|India
+L Balaji|5|16|0|121|10|12.1|7.5625|9.6|0|0|India
+L Croospulle|||||||||||Sri Lanka
+L Gregory|5|13|0|117|2|58.5|9|39|0|0|England
+L Ngidi|42|138.5|0|1296|62|20.9032258064516|9.33493397358943|13.4354838709677|2|1|South Africa
+L Sipamla|9|27.2|0|265|5|53|9.69512195121951|32.8|0|0|South Africa
+L Vincent|||||||||||New Zealand
+L Wood|5|18|0|174|8|21.75|9.66666666666667|13.5|0|0|England
+LA Dawson|11|34|0|242|6|40.3333333333333|7.11764705882353|34|0|0|England
+LA Pomersbach|||||||||||Australia
+LB Williams|11|38.4|0|371|16|23.1875|9.5948275862069|14.5|0|0|South Africa
+LD Chandimal|||||||||||Sri Lanka
+LD Madushanka|1|4|0|36|0|Inf|9|Inf|0|0|Sri Lanka
+LE Bosman|||||||||||South Africa
+LE Plunkett|22|79.2|1|627|25|25.08|7.90336134453782|19.04|0|0|England
+LH Ferguson|39|139.1|1|1045|55|19|7.50898203592815|15.1818181818182|2|1|New Zealand
+LHD Dilhara|2|5|0|30|2|15|6|15|0|0|Sri Lanka
+LJ Woodcock|3|10|0|70|1|70|7|60|0|0|New Zealand
+LJ Wright|23|55|0|465|18|25.8333333333333|8.45454545454546|18.3333333333333|0|0|England
+LL Tsotsobe|23|78|2|541|18|30.0555555555556|6.93589743589744|26|0|0|South Africa
+LMP Simmons|5|7.1|0|72|6|12|10.046511627907|7.16666666666667|1|0|West Indies
+LPC Silva|2|3|0|15|1|15|5|18|0|0|Sri Lanka
+LRPL Taylor|||||||||||New Zealand
+LS Baker|3|8|0|58|2|29|7.25|24|0|0|West Indies
+LS Livingstone|28|69|1|590|22|26.8181818181818|8.55072463768116|18.8181818181818|0|0|England
+LU Igalagamage|||||||||||Sri Lanka
+Litton Das|||||||||||BAN
+M Bhanuka|||||||||||Sri Lanka
+M Jansen|7|26.1|0|226|8|28.25|8.63694267515924|19.625|0|0|South Africa
+M Kartik|1|4|0|27|0|Inf|6.75|Inf|0|0|India
+M Klinger|||||||||||Australia
+M Labuschagne|||||||||||Australia
+M Markande|1|4|0|31|0|Inf|7.75|Inf|0|0|India
+M Mosehle|||||||||||South Africa
+M Muralidaran|12|47|0|297|13|22.8461538461539|6.31914893617021|21.6923076923077|0|0|Sri Lanka
+M Nasim Baras|3|8|0|56|2|28|7|24|0|0|Afghanistan
+M Ntini|10|32|0|298|6|49.6666666666667|9.3125|32|0|0|South Africa
+M Pathirana|8|26.4|0|227|12|18.9166666666667|8.5125|13.3333333333333|1|0|Sri Lanka
+M Prasidh Krishna|5|20|0|220|8|27.5|11|15|0|0|India
+M Pushpakumara|1|3|0|27|1|27|9|18|0|0|Sri Lanka
+M Theekshana|48|182.2|0|1220|44|27.7272727272727|6.69104204753199|24.8636363636364|0|0|Sri Lanka
+M Vijay|1|2|0|9|0|Inf|4.5|Inf|0|0|India
+M Zondeki|1|3|0|41|1|41|13.6666666666667|18|0|0|South Africa
+M de Lange|6|23.2|0|228|7|32.5714285714286|9.77142857142857|20|0|0|South Africa
+MA Aponso|3|10|0|79|4|19.75|7.9|15|0|0|Sri Lanka
+MA Carberry|||||||||||England
+MA Starc|62|231|2|1784|76|23.4736842105263|7.72294372294372|18.2368421052632|1|0|Australia
+MA Wood|30|108.3|1|909|47|19.3404255319149|8.3778801843318|13.8510638297872|0|0|England
+MC Bascombe|||||||||||West Indies
+MC Henriques|10|23|0|194|7|27.7142857142857|8.43478260869565|19.7142857142857|0|0|Australia
+MD Bates|3|11|0|107|4|26.75|9.72727272727273|16.5|0|0|New Zealand
+MD Gunathilaka|12|20.3|0|155|6|25.8333333333333|7.5609756097561|20.5|0|0|Sri Lanka
+MD Shanaka|51|85|1|697|32|21.78125|8.2|15.9375|0|0|Sri Lanka
+MDK Perera|3|10|0|72|3|24|7.2|20|0|0|Sri Lanka
+MDKJ Perera|||||||||||Sri Lanka
+ME Trescothick|||||||||||England
+MEK Hussey|1|1|0|5|0|Inf|5|Inf|0|0|Australia
+MF Maharoof|8|27|0|199|7|28.4285714285714|7.37037037037037|23.1428571428571|0|0|Sri Lanka
+MG Bracewell|19|56.5|1|364|24|15.1666666666667|6.40469208211144|14.2083333333333|0|0|New Zealand
+MG Johnson|30|109.2|2|797|38|20.9736842105263|7.28963414634146|17.2631578947368|0|0|Australia
+MH Yardy|13|46|0|299|11|27.1818181818182|6.5|25.0909090909091|0|0|England
+MJ Clarke|15|26|0|225|6|37.5|8.65384615384615|26|0|0|Australia
+MJ Guptill|1|1|0|11|0|Inf|11|Inf|0|0|New Zealand
+MJ Henry|17|65|1|533|22|24.2272727272727|8.2|17.7272727272727|0|0|New Zealand
+MJ Lumb|||||||||||England
+MJ Mason|3|9|0|65|2|32.5|7.22222222222222|27|0|0|New Zealand
+MJ North|||||||||||Australia
+MJ Prior|||||||||||England
+MJ Santner|99|349.2|2|2481|111|22.3513513513514|7.10209923664122|18.8828828828829|3|0|New Zealand
+MJ Swepson|8|25|0|204|11|18.5454545454545|8.16|13.6363636363636|0|0|Australia
+MK Pandey|||||||||||India
+MK Tiwary|||||||||||India
+ML Hayden|||||||||||Australia
+ML Lewis|2|7.3|0|49|4|12.25|6.53333333333333|11.25|0|0|Australia
+ML Udawatte|||||||||||Sri Lanka
+MM Ali|69|161.3|1|1344|49|27.4285714285714|8.32198142414861|19.7755102040816|0|0|England
+MM Patel|3|10|0|86|4|21.5|8.6|15|0|0|India
+MM Sharma|8|23|0|185|6|30.8333333333333|8.04347826086957|23|0|0|India
+MN Samuels|30|79.5|0|622|22|28.2727272727273|7.79123173277662|21.7727272727273|0|0|West Indies
+MN van Wyk|||||||||||South Africa
+MNK Fernando|||||||||||Sri Lanka
+MP Breetzke|||||||||||South Africa
+MP Stoinis|37|97.2|0|833|33|25.2424242424242|8.55821917808219|17.6969696969697|0|0|Australia
+MP Vaughan|||||||||||England
+MR Gillespie|10|35|3|255|10|25.5|7.28571428571429|21|1|0|New Zealand
+MR Marsh|25|50|0|387|17|22.7647058823529|7.74|17.6470588235294|0|0|Australia
+MS Atapattu|||||||||||Sri Lanka
+MS Crane|2|8|0|62|1|62|7.75|48|0|0|England
+MS Dhoni|||||||||||India
+MS Kasprowicz|2|7|0|57|5|11.4|8.14285714285714|8.4|1|0|Australia
+MS Panesar|1|4|0|40|2|20|10|12|0|0|England
+MS Sinclair|||||||||||New Zealand
+MS Wade|||||||||||Australia
+MV Boucher|||||||||||South Africa
+MVT Fernando|1|2|0|16|0|Inf|8|Inf|0|0|Sri Lanka
+MW Forde|2|5.5|0|81|3|27|13.8857142857143|11.6666666666667|0|0|West Indies
+MW Parkinson|6|20|0|198|7|28.2857142857143|9.9|17.1428571428571|1|0|England
+MW Short|4|5|0|69|2|34.5|13.8|15|0|0|Australia
+Mahedi Hasan|46|157.2|2|1037|38|27.2894736842105|6.59110169491526|24.8421052631579|0|0|BAN
+Mahmudul Hasan Joy|1|0.2|0|5|0|Inf|15|Inf|0|0|BAN
+Mahmudullah|75|150.2|2|1065|39|27.3076923076923|7.08425720620843|23.1282051282051|0|0|BAN
+Mandeep Singh|||||||||||India
+Mansoor Amjad|1|1|0|3|3|1|3|2|0|0|Pakistan
+Mashrafe Mortaza|53|189.5|1|1527|42|36.3571428571429|8.04389815627744|27.1190476190476|1|0|BAN
+Mehidy Hasan Miraz|23|58|0|478|13|36.7692307692308|8.24137931034483|26.7692307692308|1|0|BAN
+Mehrab Hossain jnr|1|2.5|0|20|0|Inf|7.05882352941176|Inf|0|0|BAN
+Mirwais Ashraf|22|65.2|1|444|14|31.7142857142857|6.79591836734694|28|0|0|Afghanistan
+Mirza Baig|||||||||||Pakistan
+Misbah-ul-Haq|||||||||||Pakistan
+Mohammad Amir|60|216.1|5|1547|69|22.4202898550725|7.15651503469545|18.7971014492754|1|0|Pakistan
+Mohammad Ashraful|8|23|0|210|8|26.25|9.1304347826087|17.25|0|0|BAN
+Mohammad Asif|11|42.5|1|343|13|26.3846153846154|8.00778210116732|19.7692307692308|1|0|Pakistan
+Mohammad Hafeez|79|210.1|3|1388|61|22.7540983606557|6.60428231562252|20.672131147541|1|0|Pakistan
+Mohammad Haris|||||||||||Pakistan
+Mohammad Hasnain|26|101|0|853|25|34.12|8.44554455445545|24.24|0|0|Pakistan
+Mohammad Irfan|22|75.3|0|562|16|35.125|7.44370860927152|28.3125|0|0|Pakistan
+Mohammad Ishaq|||||||||||Afghanistan
+Mohammad Mithun|||||||||||BAN
+Mohammad Nabi|115|360.4|5|2640|95|27.7894736842105|7.31977818853974|22.7789473684211|3|0|Afghanistan
+Mohammad Naim|||||||||||BAN
+Mohammad Nawaz (3)|57|183.4|1|1361|50|27.22|7.41016333938294|22.04|0|0|Pakistan
+Mohammad Rafique|1|4|0|22|1|22|5.5|24|0|0|BAN
+Mohammad Rizwan|||||||||||Pakistan
+Mohammad Saifuddin|38|132.5|0|1158|42|27.5714285714286|8.7176913425345|18.9761904761905|1|0|BAN
+Mohammad Saleem|1|3|0|43|0|Inf|14.3333333333333|Inf|0|0|Afghanistan
+Mohammad Salman|||||||||||Pakistan
+Mohammad Sami|13|46|0|387|21|18.4285714285714|8.41304347826087|13.1428571428571|0|0|Pakistan
+Mohammad Shahid|1|3|0|32|1|32|10.6666666666667|18|0|0|BAN
+Mohammad Shahzad|19|48.1|0|411|13|31.6153846153846|8.53287197231834|22.2307692307692|0|0|Afghanistan
+Mohammad Shahzad|||||||||||Afghanistan
+Mohammad Wasim (1)|29|92.1|0|751|36|20.8611111111111|8.14828209764919|15.3611111111111|2|0|Pakistan
+Mohammad Yousuf|||||||||||Pakistan
+Mohammed Shami|23|79.3|1|711|24|29.625|8.9433962264151|19.875|0|0|India
+Mohammed Siraj|12|45|2|366|13|28.1538461538462|8.13333333333333|20.7692307692308|1|0|India
+Mominul Haque|2|3|0|32|0|Inf|10.6666666666667|Inf|0|0|BAN
+Mosaddek Hossain|26|55.1|1|398|18|22.1111111111111|7.21450151057402|18.3888888888889|0|1|BAN
+Mrittunjoy Chowdhury|1|1|0|14|0|Inf|14|Inf|0|0|BAN
+Mubasir Khan|||||||||||Pakistan
+Muhammad Musa|2|7.5|0|62|0|Inf|7.91489361702128|Inf|0|0|Pakistan
+Mujeeb Ur Rahman|46|168|1|1068|59|18.1016949152542|6.35714285714286|17.0847457627119|1|1|Afghanistan
+Mukesh Kumar|14|43.5|0|412|12|34.3333333333333|9.39923954372624|21.9166666666667|0|0|India
+Mukhtar Ahmed|||||||||||Pakistan
+Muktar Ali|1|2|0|17|0|Inf|8.5|Inf|0|0|BAN
+Munim Shahriar|||||||||||BAN
+Mushfiqur Rahim|||||||||||BAN
+Mustafizur Rahman|97|350.4|7|2623|123|21.3252032520325|7.48003802281369|17.1056910569106|3|2|BAN
+N Boje|1|4|0|27|1|27|6.75|24|0|0|South Africa
+N Burger|1|4|0|39|1|39|9.75|24|0|0|South Africa
+N Deonarine|4|9|0|87|0|Inf|9.66666666666667|Inf|0|0|West Indies
+N Dickwella|||||||||||Sri Lanka
+N Peter|2|6|0|59|3|19.6666666666667|9.83333333333333|12|0|0|South Africa
+N Pooran|||||||||||West Indies
+N Pradeep|16|46.2|0|436|15|29.0666666666667|9.41007194244604|18.5333333333333|1|0|Sri Lanka
+N Rana|||||||||||India
+N Thushara|10|31.1|1|253|16|15.8125|8.11764705882353|11.6875|2|1|Sri Lanka
+N Vimukthi|1|4|1|13|0|Inf|3.25|Inf|0|0|Sri Lanka
+NA Saini|9|32.5|1|235|13|18.0769230769231|7.15736040609137|15.1538461538462|0|0|India
+ND McKenzie|||||||||||South Africa
+NE Bonner|1|2|0|18|0|Inf|9|Inf|0|0|West Indies
+NJ Astle|2|6.5|0|50|4|12.5|7.31707317073171|10.25|0|0|New Zealand
+NJ Maddinson|||||||||||Australia
+NJ Reardon|||||||||||Australia
+NL McCullum|59|187.1|0|1278|58|22.0344827586207|6.82813891362422|19.3620689655172|2|0|New Zealand
+NM Coulter-Nile|27|97|1|802|34|23.5882352941177|8.2680412371134|17.1176470588235|1|0|Australia
+NM Hauritz|2|7.2|0|47|2|23.5|6.40909090909091|22|0|0|Australia
+NM Lyon|2|5|0|48|1|48|9.6|30|0|0|Australia
+NO Miller|9|31.4|0|224|11|20.3636363636364|7.07368421052632|17.2727272727273|0|0|West Indies
+NT Broom|||||||||||New Zealand
+NT Ellis|15|55|1|436|26|16.7692307692308|7.92727272727273|12.6923076923077|1|0|Australia
+NT Tilak Varma|3|5|0|26|2|13|5.2|15|0|0|India
+NV Ojha|||||||||||India
+NW Bracken|19|62.5|2|438|19|23.0526315789474|6.97082228116711|19.8421052631579|0|0|Australia
+Nadif Chowdhury|||||||||||BAN
+Naeem Islam|6|15|0|122|3|40.6666666666667|8.13333333333333|30|0|0|BAN
+Najeeb Tarakai|||||||||||Afghanistan
+Najibullah Zadran|||||||||||Afghanistan
+Najmul Hossain Shanto|3|3|0|26|0|Inf|8.66666666666667|Inf|0|0|BAN
+Nangeyalia Kharote|3|11|0|65|5|13|5.90909090909091|13.2|0|0|Afghanistan
+Naseem Shah|27|102.1|0|786|24|32.75|7.69331158238173|25.5416666666667|0|0|Pakistan
+Nasir Hossain|11|29.5|0|262|7|37.4285714285714|8.78212290502793|25.5714285714286|0|0|BAN
+Nasir Jamshed|||||||||||Pakistan
+Nasum Ahmed|34|107.3|3|787|34|23.1470588235294|7.32093023255814|18.9705882352941|3|0|BAN
+Nauman Anwar|||||||||||Pakistan
+Naved-ul-Hasan|4|14.1|0|101|5|20.2|7.12941176470588|17|0|0|Pakistan
+Naveen-ul-Haq|39|127.4|1|1030|48|21.4583333333333|8.06788511749347|15.9583333333333|1|0|Afghanistan
+Nawroz Mangal|6|10|0|80|4|20|8|15|0|0|Afghanistan
+Nazimuddin|||||||||||BAN
+Nazmul Hossain|4|7|0|67|1|67|9.57142857142857|42|0|0|BAN
+Nazmul Islam|12|38.3|2|265|8|33.125|6.88311688311689|28.875|0|0|BAN
+Nazmus Sadat|||||||||||BAN
+Nijat Masood|3|11|0|95|4|23.75|8.63636363636364|16.5|0|0|Afghanistan
+Noor Ahmad|8|22|0|176|6|29.3333333333333|8|22|1|0|Afghanistan
+Noor Ali Zadran|||||||||||Afghanistan
+Nurul Hasan|||||||||||BAN
+O Thomas|20|68|1|638|21|30.3809523809524|9.38235294117647|19.4285714285714|0|1|West Indies
+OA Shah|||||||||||England
+OC McCoy|33|112.3|1|962|46|20.9130434782609|8.55111111111111|14.6739130434783|2|1|West Indies
+OEG Baartman|4|16|1|73|8|9.125|4.5625|12|1|0|South Africa
+OF Smith|26|75|0|772|27|28.5925925925926|10.2933333333333|16.6666666666667|0|0|West Indies
+OP Stone|1|4|0|36|0|Inf|9|Inf|0|0|England
+Omair Yousuf|||||||||||Pakistan
+P Awana|2|6|0|71|0|Inf|11.8333333333333|Inf|0|0|India
+P Jayawickrama|5|13.1|0|118|2|59|8.9620253164557|39.5|0|0|Sri Lanka
+P Kumar|10|26|1|193|8|24.125|7.42307692307692|19.5|0|0|India
+P Mustard|||||||||||England
+P Negi|1|3|0|16|1|16|5.33333333333333|18|0|0|India
+P Nissanka|||||||||||Sri Lanka
+PA Hitchcock|1|3|0|43|2|21.5|14.3333333333333|9|0|0|New Zealand
+PA Nixon|||||||||||England
+PA Patel|||||||||||India
+PADLR Sandakan|20|76.4|1|557|23|24.2173913043478|7.26521739130435|20|1|0|Sri Lanka
+PBB Rajapaksa|||||||||||Sri Lanka
+PC de Silva|2|2|0|30|0|Inf|15|Inf|0|0|Sri Lanka
+PD McGlashan|||||||||||New Zealand
+PD Salt|||||||||||England
+PDRL Perera|2|7|0|77|0|Inf|11|Inf|0|0|Sri Lanka
+PE Kruger|1|1|0|8|0|Inf|8|Inf|0|0|South Africa
+PG Fulton|||||||||||New Zealand
+PHKD Mendis|4|8|0|70|0|Inf|8.75|Inf|0|0|Sri Lanka
+PJ Cummins|53|194|3|1435|59|24.3220338983051|7.39690721649485|19.728813559322|0|0|Australia
+PJ Hughes|||||||||||Australia
+PJ Ingram|||||||||||New Zealand
+PJ van Biljon|||||||||||South Africa
+PM Nevill|||||||||||Australia
+PM Siddle|2|8|0|58|3|19.3333333333333|7.25|16|0|0|Australia
+PP Chawla|7|23|1|151|4|37.75|6.56521739130435|34.5|0|0|India
+PP Ojha|6|21|0|132|10|13.2|6.28571428571429|12.6|1|0|India
+PP Shaw|||||||||||India
+PR Brown|4|13|0|128|3|42.6666666666667|9.84615384615385|26|0|0|England
+PSP Handscomb|||||||||||Australia
+PVD Chameera|55|196.2|0|1588|55|28.8727272727273|8.08828522920204|21.4181818181818|1|0|Sri Lanka
+PW Hasaranga|65|244|1|1673|108|15.4907407407407|6.85655737704918|13.5555555555556|3|0|Sri Lanka
+PWA Mulder|8|14|0|129|5|25.8|9.21428571428571|16.8|0|0|South Africa
+Parvez Hossain Emon|||||||||||BAN
+Parvez Rasool|1|4|0|32|1|32|8|24|0|0|India
+Pramod Madushan|8|26.1|0|226|12|18.8333333333333|8.63694267515924|13.0833333333333|1|0|Sri Lanka
+Q de Kock|||||||||||South Africa
+Qais Ahmad|10|32|0|221|16|13.8125|6.90625|12|0|0|Afghanistan
+Qasim Akram|2|3.5|0|23|3|7.66666666666667|6|7.66666666666667|0|0|Pakistan
+R Ashwin|65|242|3|1672|72|23.2222222222222|6.90909090909091|20.1666666666667|2|0|India
+R Dhawan|1|4|0|42|1|42|10.5|24|0|0|India
+R Dravid|||||||||||India
+R Frylinck|3|10|0|62|5|12.4|6.2|12|0|0|South Africa
+R McLaren|12|43.5|0|332|17|19.5294117647059|7.57414448669202|15.4705882352941|0|1|South Africa
+R Mondol|3|7|1|60|4|15|8.57142857142857|10.5|0|0|BAN
+R Powell|13|20.5|0|206|5|41.2|9.888|25|0|0|West Indies
+R Rampaul|27|95.5|1|803|31|25.9032258064516|8.37913043478261|18.5483870967742|0|0|West Indies
+R Ravindra|13|37|0|247|11|22.4545454545455|6.67567567567568|20.1818181818182|0|0|New Zealand
+R Sai Kishore|3|12|0|63|4|15.75|5.25|18|0|0|India
+R Sharma|2|7.2|0|56|3|18.6666666666667|7.63636363636364|14.6666666666667|0|0|India
+R Sharma|5|11|0|103|2|51.5|9.36363636363636|33|0|0|India
+R Shepherd|35|113.4|0|1115|40|27.875|9.80938416422287|17.05|1|0|West Indies
+R Telemachus|3|12|0|90|2|45|7.5|36|0|0|South Africa
+R Vinay Kumar|9|31.3|0|247|10|24.7|7.84126984126984|18.9|0|0|India
+RA Jadeja|66|215|4|1523|53|28.7358490566038|7.08372093023256|24.3396226415094|0|0|India
+RA Reifer|2|5|0|60|1|60|12|30|0|0|West Indies
+RA Tripathi|||||||||||India
+RAS Lakmal|11|34.4|0|330|8|41.25|9.51923076923077|26|0|0|Sri Lanka
+RD Chahar|6|22|0|167|7|23.8571428571429|7.59090909090909|18.8571428571429|0|0|India
+RD Gaikwad|||||||||||India
+RD Rickelton|||||||||||South Africa
+RE Levi|||||||||||South Africa
+RG Sharma|9|11.2|0|113|1|113|9.97058823529412|68|0|0|India
+RJ Gleeson|6|21|1|187|9|20.7777777777778|8.90476190476191|14|0|0|England
+RJ Harris|3|11.4|1|95|4|23.75|8.14285714285714|17.5|0|0|Australia
+RJ Kirtley|1|1|0|17|0|Inf|17|Inf|0|0|England
+RJ Nicol|13|20.3|0|167|5|33.4|8.14634146341463|24.6|0|0|New Zealand
+RJ Peterson|19|59.5|1|451|24|18.7916666666667|7.53760445682451|14.9583333333333|0|0|South Africa
+RJ Sidebottom|18|61.1|0|437|23|19|7.14441416893733|15.9565217391304|0|0|England
+RJMGM Rupasinghe|||||||||||Sri Lanka
+RJW Topley|26|93|0|776|31|25.0322580645161|8.34408602150538|18|0|0|England
+RK Kleinveldt|6|20.2|1|173|9|19.2222222222222|8.50819672131148|13.5555555555556|0|0|South Africa
+RK Singh|||||||||||India
+RL Chase|12|40.2|0|264|11|24|6.54545454545455|22|0|0|West Indies
+RLB Rambukwella|2|6.3|0|46|1|46|7.07692307692308|39|0|0|Sri Lanka
+RM Hira|13|42.2|1|337|10|33.7|7.96062992125984|25.4|0|0|New Zealand
+RMS Eranga|3|11|0|90|3|30|8.18181818181818|22|0|0|Sri Lanka
+RN Lewis|1|1|0|9|0|Inf|9|Inf|0|0|West Indies
+RP Arnold|||||||||||Sri Lanka
+RP Meredith|5|18.5|0|188|8|23.5|9.98230088495575|14.125|0|0|Australia
+RP Singh|9|33|0|225|15|15|6.81818181818182|13.2|1|0|India
+RR Emrit|4|16|0|156|4|39|9.75|24|0|0|West Indies
+RR Hendricks|3|4.5|0|58|0|Inf|12|Inf|0|0|South Africa
+RR Pant|||||||||||India
+RR Rossouw|||||||||||South Africa
+RR Sarwan|1|2|0|10|2|5|5|6|0|0|West Indies
+RS Bopara|21|53.4|1|387|16|24.1875|7.2111801242236|20.125|1|0|England
+RS Fernando|1|1|0|17|0|Inf|17|Inf|0|0|Sri Lanka
+RS Morton|||||||||||West Indies
+RT Ponting|||||||||||Australia
+RTM Mendis|2|4|0|22|1|22|5.5|24|0|0|Sri Lanka
+RV Uthappa|||||||||||India
+RWT Key|||||||||||England
+Raees Ahmadzai|||||||||||Afghanistan
+Rafatullah Mohmand|||||||||||Pakistan
+Rahmanullah Gurbaz|||||||||||Afghanistan
+Rahmat Shah|||||||||||Afghanistan
+Rakibul Hasan|7|23|2|147|8|18.375|6.39130434782609|17.25|0|0|BAN
+Rakibul Hasan|3|7|0|55|2|27.5|7.85714285714286|21|0|0|BAN
+Rameez Raja (2)|||||||||||Pakistan
+Raqibul Hasan|||||||||||BAN
+Rashid Khan|2|7|0|67|1|67|9.57142857142857|42|0|0|Afghanistan
+Ravi Bishnoi|24|93.4|0|703|36|19.5277777777778|7.50533807829182|15.6111111111111|1|0|India
+Raza Hasan|10|38|1|219|10|21.9|5.76315789473684|22.8|0|0|Pakistan
+Rehan Ahmed|7|24|0|228|9|25.3333333333333|9.5|16|0|0|England
+Rishad Hossain|18|60|1|427|19|22.4736842105263|7.11666666666667|18.9473684210526|0|0|BAN
+Robiul Islam|1|1|0|13|0|Inf|13|Inf|0|0|BAN
+Rohail Nazir|||||||||||Pakistan
+Rokhan Barakzai|3|10|0|75|6|12.5|7.5|10|0|0|Afghanistan
+Rony Talukdar|||||||||||BAN
+Rubel Hossain|27|96.3|0|912|28|32.5714285714286|9.45077720207254|20.6785714285714|0|0|BAN
+Rumman Raees|8|28.5|2|220|8|27.5|7.63005780346821|21.625|0|0|Pakistan
+S Aravind|1|3.4|0|44|1|44|12|22|0|0|India
+S Badrinath|||||||||||India
+S Chanderpaul|||||||||||West Indies
+S Daniel|||||||||||Sri Lanka
+S Dhawan|||||||||||India
+S Dube|19|36.3|0|360|8|45|9.86301369863014|27.375|0|0|India
+S Joseph|3|8|0|67|3|22.3333333333333|8.375|16|0|0|West Indies
+S Kaul|3|9.4|0|84|4|21|8.68965517241379|14.5|0|0|India
+S Mahmood|11|38|0|398|7|56.8571428571429|10.4736842105263|32.5714285714286|0|0|England
+S Prasanna|18|50|1|359|10|35.9|7.18|30|0|0|Sri Lanka
+S Qeshile|||||||||||South Africa
+S Randiv|7|21|0|139|7|19.8571428571429|6.61904761904762|18|0|0|Sri Lanka
+S Samarawickrama|||||||||||Sri Lanka
+S Sandeep Warrier|1|3|0|23|0|Inf|7.66666666666667|Inf|0|0|India
+S Sreesanth|9|34|2|288|7|41.1428571428572|8.47058823529412|29.1428571428571|0|0|India
+S Tyagi|1|2|0|21|0|Inf|10.5|Inf|0|0|India
+SA Abbott|15|43.5|1|399|15|26.6|9.10266159695817|17.5333333333333|1|0|Australia
+SA Yadav|||||||||||India
+SB Styris|21|51.3|0|349|18|19.3888888888889|6.77669902912621|17.1666666666667|0|0|New Zealand
+SC Kuggeleijn|17|53.5|0|471|16|29.4375|8.74922600619195|20.1875|0|0|New Zealand
+SC Meaker|2|7.5|0|70|2|35|8.93617021276596|23.5|0|0|England
+SCJ Broad|55|195.3|2|1491|65|22.9384615384615|7.62659846547315|18.0461538461538|1|0|England
+SD Hope|||||||||||West Indies
+SD Parry|5|16|0|138|3|46|8.625|32|0|0|England
+SE Bond|20|77.3|2|543|25|21.72|7.00645161290323|18.6|0|0|New Zealand
+SE Findlay|||||||||||West Indies
+SE Marsh|||||||||||Australia
+SE Rutherford|3|7|0|72|1|72|10.2857142857143|42|0|0|West Indies
+SG Borthwick|1|4|0|15|1|15|3.75|24|0|0|England
+SH Johnson|5|17.3|0|160|6|26.6666666666667|9.14285714285714|17.5|0|0|Australia
+SHA Rance|7|27|0|245|10|24.5|9.07407407407407|16.2|0|0|New Zealand
+SHT Kandamby|||||||||||Sri Lanka
+SI Mahmood|4|14|0|155|3|51.6666666666667|11.0714285714286|28|0|0|England
+SI de Saram|||||||||||Sri Lanka
+SJ Benn|24|84|3|606|18|33.6666666666667|7.21428571428571|28|1|0|West Indies
+SJ Harmison|2|6.3|0|42|1|42|6.46153846153846|39|0|0|England
+SK Raina|27|58.1|0|442|13|34|7.59885386819484|26.8461538461539|0|0|India
+SL Malinga|83|299.5|1|2225|107|20.7943925233645|7.42078932740411|16.8130841121495|1|2|Sri Lanka
+SM Boland|3|11|0|90|3|30|8.18181818181818|22|0|0|Australia
+SM Curran|46|144.5|1|1159|49|23.6530612244898|8.00230149597238|17.734693877551|0|1|England
+SM Davies|||||||||||England
+SM Harwood|3|12|0|113|3|37.6666666666667|9.41666666666667|24|0|0|Australia
+SM Katich|||||||||||Australia
+SM Pollock|11|40.3|1|309|15|20.6|7.62962962962963|16.2|0|0|South Africa
+SMA Priyanjan|||||||||||Sri Lanka
+SMLD Samarakoon|1|3|0|10|1|10|3.33333333333333|18|0|0|Sri Lanka
+SMSM Senanayake|23|81|0|549|25|21.96|6.77777777777778|19.44|1|0|Sri Lanka
+SN Thakur|24|84.2|0|772|33|23.3939393939394|9.15415019762846|15.3333333333333|1|0|India
+SNJ O'Keefe|7|19|0|149|6|24.8333333333333|7.8421052631579|19|0|0|Australia
+SO Hetmyer|||||||||||West Indies
+SP Fleming|||||||||||New Zealand
+SP Narine|49|183.4|1|1105|52|21.25|6.01633393829401|21.1923076923077|1|0|West Indies
+SPD Smith|17|48.3|1|377|17|22.1764705882353|7.77319587628866|17.1176470588235|0|0|Australia
+SR Clark|9|36|0|237|13|18.2307692307692|6.58333333333333|16.6153846153846|1|0|Australia
+SR Patel|15|42|0|321|7|45.8571428571429|7.64285714285714|36|0|0|England
+SR Tendulkar|1|2.3|0|12|1|12|4.8|15|0|0|India
+SR Watson|49|155|2|1187|48|24.7291666666667|7.65806451612903|19.375|1|0|Australia
+SS Cottrell|44|153|4|1244|52|23.9230769230769|8.13071895424837|17.6538461538462|1|0|West Indies
+SS Iyer|1|0.2|0|2|0|Inf|6|Inf|0|0|India
+SS Pathirana|5|15.5|0|119|5|23.8|7.51578947368421|19|0|0|Sri Lanka
+SSB Magala|6|20|0|226|6|37.6666666666667|11.3|20|0|0|South Africa
+SSD Arachchige|1|3.3|0|26|2|13|7.42857142857143|10.5|0|0|Sri Lanka
+SSJ Brooks|||||||||||West Indies
+ST Finn|21|80|0|583|27|21.5925925925926|7.2875|17.7777777777778|0|0|England
+ST Gabriel|2|7|0|56|3|18.6666666666667|8|14|0|0|West Indies
+ST Jayasuriya|24|61.5|0|456|19|24|7.37466307277628|19.5263157894737|0|0|Sri Lanka
+ST de Silva|1|1|0|10|0|Inf|10|Inf|0|0|Sri Lanka
+STR Binny|3|5|0|54|1|54|10.8|30|0|0|India
+SV Samson|||||||||||India
+SW Tait|21|79.4|2|589|28|21.0357142857143|7.39330543933054|17.0714285714286|0|0|Australia
+Saad Nasim|1|1|0|12|0|Inf|12|Inf|0|0|Pakistan
+Sabbir Rahman|9|12.1|0|79|6|13.1666666666667|6.49315068493151|12.1666666666667|0|0|BAN
+Saeed Ajmal|63|238.2|2|1516|85|17.8352941176471|6.36083916083916|16.8235294117647|4|0|Pakistan
+Sahibzada Farhan|||||||||||Pakistan
+Saif Hassan|3|5.1|0|28|0|Inf|5.41935483870968|Inf|0|0|BAN
+Saim Ayub|3|5|0|44|0|Inf|8.8|Inf|0|0|Pakistan
+Sajedul Islam|1|1|0|15|0|Inf|15|Inf|0|0|BAN
+Salman Butt|||||||||||Pakistan
+Samiullah Shinwari|38|105.4|0|688|28|24.5714285714286|6.51104100946372|22.6428571428571|1|1|Afghanistan
+Sandeep Sharma|2|7|0|73|1|73|10.4285714285714|42|0|0|India
+Saqlain Sajib|1|3.3|0|40|0|Inf|11.4285714285714|Inf|0|0|BAN
+Sarfaraz Ahmed|||||||||||Pakistan
+Sayed Shirzad|4|15|1|116|7|16.5714285714286|7.73333333333333|12.8571428571429|0|0|Afghanistan
+Sediqullah Atal|||||||||||Afghanistan
+Shabbir Ahmed|1|2|0|19|0|Inf|9.5|Inf|0|0|Pakistan
+Shabir Noori|||||||||||Afghanistan
+Shadab Khan|95|347.1|3|2511|107|23.4672897196262|7.23283725396063|19.4672897196262|3|0|Pakistan
+Shafiqullah|||||||||||Afghanistan
+Shafiul Islam|20|66.4|1|532|20|26.6|7.98|20|0|0|BAN
+Shahadat Hossain|6|20|0|198|4|49.5|9.9|30|0|0|BAN
+Shahadat Hossain (3)|||||||||||BAN
+Shahbaz Ahmed|2|5.2|0|41|2|20.5|7.6875|16|0|0|India
+Shaheen Shah Afridi|69|251.4|2|1936|93|20.8172043010753|7.69271523178808|16.236559139785|2|0|Pakistan
+Shahid Afridi|5|12|0|126|3|42|10.5|24|0|0|Pakistan
+Shahidullah|||||||||||Afghanistan
+Shahnawaz Dahani|11|35.2|1|320|8|40|9.05660377358491|26.5|0|0|Pakistan
+Shahriar Nafees|||||||||||BAN
+Shahzaib Hasan|||||||||||Pakistan
+Shakeel Ansar|||||||||||Pakistan
+Shakib Al Hasan|122|444.1|3|3023|146|20.7054794520548|6.80600375234522|18.2534246575342|6|2|BAN
+Shamim Hossain|2|2|0|11|0|Inf|5.5|Inf|0|0|BAN
+Shamsur Rahman|||||||||||BAN
+Shan Masood|||||||||||Pakistan
+Shapoor Zadran|36|115.5|3|907|37|24.5135135135135|7.83021582733813|18.7837837837838|0|0|Afghanistan
+Sharafuddin Ashraf|16|46|1|342|8|42.75|7.43478260869565|34.5|0|0|Afghanistan
+Sharjeel Khan|||||||||||Pakistan
+Shivam Mavi|6|14|0|123|7|17.5714285714286|8.78571428571429|12|1|0|India
+Shoaib Akhtar|15|53|3|432|19|22.7368421052632|8.15094339622642|16.7368421052632|0|0|Pakistan
+Shoaib Khan jnr|||||||||||Pakistan
+Shohidul Islam|1|3.5|0|33|1|33|8.60869565217391|23|0|0|BAN
+Shoriful Islam|40|136.5|1|1115|46|24.2391304347826|8.14859926918392|17.8478260869565|0|0|BAN
+Shubman Gill|||||||||||India
+Shuvagata Hom|4|11|0|71|2|35.5|6.45454545454545|33|0|0|BAN
+Sohag Gazi|10|35|1|299|4|74.75|8.54285714285714|52.5|0|0|BAN
+Sohaib Maqsood|1|1|0|12|0|Inf|12|Inf|0|0|Pakistan
+Sohail Khan|5|15|0|123|5|24.6|8.2|18|0|0|Pakistan
+Sohail Tanvir|57|202.2|3|1454|54|26.9259259259259|7.18616144975288|22.4814814814815|0|0|Pakistan
+Sohrawordi Shuvo|1|1|0|12|0|Inf|12|Inf|0|0|BAN
+Soumya Sarkar|28|48|0|451|12|37.5833333333333|9.39583333333333|24|0|0|BAN
+Sufiyan Muqeem|3|10|1|61|4|15.25|6.1|15|0|0|Pakistan
+Sumon Khan|1|2|0|20|0|Inf|10|Inf|0|0|BAN
+Syed Rasel|8|29|2|202|4|50.5|6.96551724137931|43.5|0|0|BAN
+T Banton|||||||||||England
+T Bavuma|||||||||||South Africa
+T Henderson|1|4|0|31|0|Inf|7.75|Inf|0|0|South Africa
+T Natarajan|4|16|0|122|7|17.4285714285714|7.625|13.7142857142857|0|0|India
+T Sangha|7|28|0|249|10|24.9|8.89285714285714|16.8|1|0|Australia
+T Shamsi|65|234.4|1|1732|78|22.2051282051282|7.38068181818182|18.0512820512821|2|1|South Africa
+T Stubbs|1|1|0|20|0|Inf|20|Inf|0|0|South Africa
+T Thushara|6|22|0|179|7|25.5714285714286|8.13636363636364|18.8571428571429|0|0|Sri Lanka
+TA Blundell|||||||||||New Zealand
+TA Boult|58|219.3|2|1742|76|22.921052631579|7.93621867881549|17.3289473684211|2|0|New Zealand
+TAM Siriwardana|13|23|0|206|8|25.75|8.95652173913044|17.25|0|0|Sri Lanka
+TB Robinson|||||||||||New Zealand
+TB de Bruyn|||||||||||South Africa
+TC Bruce|||||||||||New Zealand
+TD Astle|5|13|0|116|7|16.5714285714286|8.92307692307692|11.1428571428571|1|0|New Zealand
+TG Southee|120|446.5|6|3635|157|23.1528662420382|8.13502424468482|17.0764331210191|2|2|New Zealand
+TK Curran|29|98|1|907|29|31.2758620689655|9.25510204081633|20.2758620689655|1|0|England
+TL Best|6|20|0|154|6|25.6666666666667|7.7|20|0|0|West Indies
+TL Seifert|||||||||||New Zealand
+TM Dilshan|25|43|0|313|9|34.7777777777778|7.27906976744186|28.6666666666667|0|0|Sri Lanka
+TM Dowlin|||||||||||West Indies
+TM Head|4|6|0|56|1|56|9.33333333333333|36|0|0|Australia
+TR Ambrose|||||||||||England
+TR Birt|||||||||||Australia
+TT Bresnan|34|110.3|1|887|24|36.9583333333333|8.02714932126697|27.625|0|0|England
+TWM Latham|||||||||||New Zealand
+Taijul Islam|2|7|0|58|1|58|8.28571428571429|42|0|0|BAN
+Tanvir Ahmed|1|3|0|13|1|13|4.33333333333333|18|0|0|Pakistan
+Tanvir Islam|4|9|0|69|2|34.5|7.66666666666667|27|0|0|BAN
+Tanzid Hasan|||||||||||BAN
+Tanzim Hasan Sakib|8|30|1|225|8|28.125|7.5|22.5|0|0|BAN
+Taskin Ahmed|61|218.4|3|1631|68|23.9852941176471|7.45884146341463|19.2941176470588|2|0|BAN
+Tayyab Tahir|||||||||||Pakistan
+Towhid Hridoy|||||||||||BAN
+UT Khawaja|||||||||||Australia
+UT Yadav|9|30|0|280|12|23.3333333333333|9.33333333333333|15|0|0|India
+UWMBCA Welegedara|2|6|0|61|1|61|10.1666666666667|36|0|0|Sri Lanka
+Umar Akmal|||||||||||Pakistan
+Umar Amin|||||||||||Pakistan
+Umar Gul|60|200.3|2|1443|85|16.9764705882353|7.19700748129676|14.1529411764706|4|2|Pakistan
+Umran Malik|8|23.1|0|243|11|22.0909090909091|10.4892086330935|12.6363636363636|0|0|India
+Usama Mir|5|20|1|175|5|35|8.75|24|0|0|Pakistan
+Usman Ghani|||||||||||Afghanistan
+Usman Khan|17|51.2|1|348|23|15.1304347826087|6.77922077922078|13.3913043478261|1|0|Pakistan
+Usman Khan|||||||||||Pakistan
+Usman Qadir|21|72|0|573|31|18.4838709677419|7.95833333333333|13.9354838709677|1|0|Pakistan
+Usman Shinwari|16|51|0|424|13|32.6153846153846|8.31372549019608|23.5384615384615|0|0|Pakistan
+V Kohli|13|25.2|0|204|4|51|8.05263157894737|38|0|0|India
+V Permaul|1|0.3|0|8|0|Inf|16|Inf|0|0|West Indies
+V Sehwag|1|1|0|20|0|Inf|20|Inf|0|0|India
+V Shankar|6|21|0|191|5|38.2|9.09523809523809|25.2|0|0|India
+V Viyaskanth|1|4|0|28|1|28|7|24|0|0|Sri Lanka
+VB van Jaarsveld|||||||||||South Africa
+VD Philander|6|13.5|0|114|4|28.5|8.24096385542169|20.75|0|0|South Africa
+VR Iyer|4|9.1|0|75|5|15|8.18181818181818|11|0|0|India
+VS Solanki|||||||||||England
+W O'Rourke|3|12|0|85|4|21.25|7.08333333333333|18|0|0|New Zealand
+WA Young|||||||||||New Zealand
+WD Parnell|55|182.2|4|1513|59|25.6440677966102|8.29798903107861|18.5423728813559|1|1|South Africa
+WG Jacks|3|3|0|41|1|41|13.6666666666667|18|0|0|England
+WIA Fernando|||||||||||Sri Lanka
+WJ Lubbe|||||||||||South Africa
+WKD Perkins|||||||||||West Indies
+WPUJC Vaas|6|22|1|128|6|21.3333333333333|5.81818181818182|22|0|0|Sri Lanka
+WU Tharanga|||||||||||Sri Lanka
+WW Hinds|||||||||||West Indies
+Wafadar Momand|2|5.1|0|65|0|Inf|12.5806451612903|Inf|0|0|Afghanistan
+Wahab Riaz|35|118.2|2|971|34|28.5588235294118|8.2056338028169|20.8823529411765|0|0|Pakistan
+Waqas Maqsood|1|1.5|0|21|2|10.5|11.4545454545455|5.5|0|0|Pakistan
+Washington Sundar|41|134.3|1|968|34|28.4705882352941|7.19702602230483|23.7352941176471|0|0|India
+XC Bartlett|1|4|0|37|2|18.5|9.25|12|0|0|Australia
+XJ Doherty|11|38|0|300|10|30|7.89473684210526|22.8|0|0|Australia
+Y Cariah|2|6|0|43|1|43|7.16666666666667|36|0|0|West Indies
+YA Abdulla|2|7|0|44|2|22|6.28571428571429|21|0|0|South Africa
+YBK Jaiswal|1|1|0|11|0|Inf|11|Inf|0|0|India
+YK Pathan|17|50.5|0|438|13|33.6923076923077|8.61639344262295|23.4615384615385|0|0|India
+YS Chahal|79|294|2|2409|96|25.09375|8.19387755102041|18.375|2|1|India
+Yamin Ahmadzai|2|7.1|0|65|5|13|9.06976744186047|8.6|0|0|Afghanistan
+Yasir Ali|25|75.4|0|475|28|16.9642857142857|6.27753303964758|16.2142857142857|0|0|BAN
+Yasir Ali|||||||||||BAN
+Yasir Arafat|13|39.2|0|316|16|19.75|8.03389830508475|14.75|0|0|Pakistan
+Yasir Shah|2|4|0|39|0|Inf|9.75|Inf|0|0|Pakistan
+Younis Khan|1|3.4|0|18|3|6|4.90909090909091|7.33333333333333|0|0|Pakistan
+Yuvraj Singh|31|70.4|0|499|28|17.8214285714286|7.06132075471698|15.1428571428571|0|0|India
+Z Khan|17|58.4|0|448|17|26.3529411764706|7.63636363636364|20.7058823529412|1|0|India
+ZGF Foulkes|2|8|0|74|1|74|9.25|48|0|0|New Zealand
+Zahid Mahmood|1|4|0|40|3|13.3333333333333|10|8|0|0|Pakistan
+Zahir Khan|3|8|0|50|3|16.6666666666667|6.25|16|0|0|Afghanistan
+Zakir Hasan|||||||||||BAN
+Zaman Khan|10|31.3|0|236|7|33.7142857142857|7.49206349206349|27|0|0|Pakistan
+Zamir Khan|1|4|0|26|1|26|6.5|24|0|0|Afghanistan
+Ziaur Rahman|7|12.3|0|127|3|42.3333333333333|10.16|25|0|0|Afghanistan
+Ziaur Rahman|7|12.3|0|127|3|42.3333333333333|10.16|25|0|0|BAN
+Ziaur Rahman|1|4|0|42|2|21|10.5|12|0|0|Afghanistan
+Ziaur Rahman|1|4|0|42|2|21|10.5|12|0|0|BAN
+Zubaid Akbari|||||||||||Afghanistan
+Zulfiqar Babar|7|26|1|185|12|15.4166666666667|7.11538461538462|13|0|0|Pakistan
+Zulqarnain Haider|11|28|0|151|8|18.875|5.39285714285714|21|0|0|Pakistan
+Zulqarnain Haider|||||||||||Pakistan
